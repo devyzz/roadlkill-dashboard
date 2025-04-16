@@ -1,0 +1,4 @@
+pandas
+mysql-connector-python
+streamlit
+folium

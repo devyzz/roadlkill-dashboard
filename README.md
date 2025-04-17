@@ -101,7 +101,7 @@ streamlit run app/dashboarda.py
 <img src="https://github.com/user-attachments/assets/5a61e94b-5990-469a-a01c-6a2bec360493" width="400" />
 
 * 연도별, 월별, 권역별 종별 [altair chart](https://docs.streamlit.io/develop/api-reference/charts/st.altair_chart) 활용 
-* 데이터 형태 테스트 - 좌측 (꺾은선, 막대그래프, 가로막대그래프) / 우측 <u>연도를 셀렉트박스로 선택</u>하는 형태의 박대그래프 
+* 데이터 형태 테스트 - (좌측) 꺾은선, 막대그래프, 가로막대그래프 / (우측) 연도를 셀렉트박스로 선택하는 형태의 막대그래프 
 * [국립생태원 동물 찻길 사고 현황자료](https://www.data.go.kr/data/15100280/fileData.do) 를 직접 csv파일로 만든 후 데이터셋으로 이용
 
 ### 데이터 출처
